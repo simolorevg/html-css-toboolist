@@ -1,0 +1,12 @@
+/*COMMON*/
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    padding:0px;
+}
+/*HEADER*/
+.header-section{
+    width:100%;
+    height: 70px;
+    background-color: blue;
+}
