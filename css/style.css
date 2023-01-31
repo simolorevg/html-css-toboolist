@@ -32,12 +32,22 @@
 .button{
     display:inline-block;
     margin: 10px;
-    border: 1px solid;
     border-radius: 5px;
     width:90px;
     height:30px;
     text-align: center;
     line-height: 30px;
+}
+
+.addtask{
+    border: 1px solid #47adf1;
+    background-color: #47adf1;
+    color:white;
+}
+
+.addsection{
+    border: 1px solid #c5cbd0;
+    color:#c5cbd0;
 }
 
 .todolist ul{
