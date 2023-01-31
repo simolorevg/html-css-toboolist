@@ -32,7 +32,7 @@
 /*BUTTON*/
 .button{
     display:inline-block;
-    margin: 10px;
+    margin-top: 10px;
     border-radius: 5px;
     width:90px;
     height:30px;
@@ -52,7 +52,9 @@
 }
 
 /*TO DO LIST*/
-
+.todolist{
+    margin-top: 50px;
+}
 .todolist ul{
     list-style-type: none;
 }
@@ -85,4 +87,20 @@
     font-size: 0.7rem;
     display: inline-block;
     margin: 10px;
+}
+
+.sticknote{
+    display:inline-block;
+    margin: 10px;
+    border-radius: 10px;
+    width:90px;
+    height:30px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.editorial{
+    border: 1px solid #47adf1;
+    background-color: #47adf1;
+    color:white;
 }
