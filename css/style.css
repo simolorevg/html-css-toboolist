@@ -51,6 +51,16 @@
     color:#c5cbd0;
 }
 
+/*TO DO LIST*/
+
 .todolist ul{
     list-style-type: none;
+}
+
+.listitems{
+    margin-top: 10px;;
+}
+
+.check{
+    border: 1px solid #64c0a9;
 }
