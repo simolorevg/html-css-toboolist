@@ -58,9 +58,31 @@
 }
 
 .listitems{
-    margin-top: 10px;;
+    margin-top: 10px;
 }
 
 .check{
     border: 1px solid #64c0a9;
+    color:#64c0a9;
+    border-radius:50%;
+    width: 20px;
+    height:20px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 0.7rem;
+    display: inline-block;
+    margin: 10px;
+}
+
+.cross{
+    border: 1px solid #ea4237;
+    color:#ea4237;
+    border-radius:50%;
+    width: 20px;
+    height:20px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 0.7rem;
+    display: inline-block;
+    margin: 10px;
 }
