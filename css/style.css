@@ -3,6 +3,7 @@
     margin: 0px;
     box-sizing: border-box;
     padding:0px;
+    font-family: sans-serif;
 }
 /*HEADER*/
 .header-section{
@@ -150,4 +151,10 @@
     border: 1px solid #b0c926;
     background-color: #b0c926;
     color: white;
+}
+
+/*FOOTER*/
+
+.sign{
+    font-family: 'Explora', cursive;
 }
