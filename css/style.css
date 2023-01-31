@@ -1,7 +1,7 @@
 /*COMMON*/
 *{
     margin: 0px;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     padding:0px;
 }
 /*HEADER*/
@@ -27,6 +27,17 @@
     width: 80%;
     margin: 0 auto;
     margin-top: 50px;
+}
+
+.button{
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    width:90px;
+    height:30px;
+    text-align: center;
+    line-height: 30px;
 }
 
 .todolist ul{
