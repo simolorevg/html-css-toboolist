@@ -116,3 +116,21 @@
     background-color: #9c72e4;
     color:white;
 }
+
+.recruiting{
+    border: 1px solid #64c0a9;
+    background-color: #64c0a9;
+    color:white;
+}
+
+.mobile{
+    border: 1px solid #f29e33;
+    background-color: #f29e33;
+    color: white;
+}
+
+.website{
+    border: 1px solid #d863a1;
+    background-color: #d863a1;
+    color: white;
+}
