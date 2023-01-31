@@ -55,6 +55,11 @@
 .todolist{
     margin-top: 50px;
 }
+
+.todolist li{
+    font-size: 20px;
+}
+
 .todolist ul{
     list-style-type: none;
 }
@@ -92,15 +97,22 @@
 .sticknote{
     display:inline-block;
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 15px;
     width:90px;
     height:30px;
     text-align: center;
     line-height: 30px;
+    font-size: 15px;
 }
 
 .editorial{
     border: 1px solid #47adf1;
     background-color: #47adf1;
+    color:white;
+}
+
+.qonegoals{
+    border: 1px solid #9c72e4;
+    background-color: #9c72e4;
     color:white;
 }
