@@ -105,6 +105,8 @@
     font-size: 15px;
 }
 
+/*STICKNOTES STYLES*/
+
 .editorial{
     border: 1px solid #47adf1;
     background-color: #47adf1;
@@ -132,5 +134,11 @@
 .website{
     border: 1px solid #d863a1;
     background-color: #d863a1;
+    color: white;
+}
+
+.sales{
+    border: 1px solid #b0c926;
+    background-color: #b0c926;
     color: white;
 }
