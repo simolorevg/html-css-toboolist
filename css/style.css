@@ -21,3 +21,11 @@
     vertical-align: middle;
     font-size: 50px;
 }
+
+/*MAIN*/
+.main-part{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
