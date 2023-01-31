@@ -5,25 +5,31 @@
     padding:0px;
     font-family: sans-serif;
 }
+body{
+    background-color: #f6f8f9 ;
+}
 /*HEADER*/
 .header-section{
     width:100%;
-    height: 70px;
-    padding-top:10px;
+    height: 50px;
+    padding:20px;
+    background-color: white;
 }
+
 #logo-photo{
     vertical-align: middle;
-    height:60px;
+    height:50px;
 }
 
 #head-title{
     display: inline-block;
     line-height: 50px;
     vertical-align: middle;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 /*MAIN*/
+
 .main-part{
     width: 80%;
     margin: 0 auto;
@@ -31,6 +37,9 @@
 }
 
 /*BUTTON*/
+.buttons{
+    background-color: white;
+}
 .button{
     display:inline-block;
     margin-top: 10px;
@@ -39,6 +48,7 @@
     height:30px;
     text-align: center;
     line-height: 30px;
+    margin-bottom:10px;
 }
 
 .button a{
@@ -60,7 +70,8 @@
 
 /*TO DO LIST*/
 .todolist{
-    margin-top: 50px;
+    margin-top: 10px;
+    background-color: white;
 }
 .todolist h2{
     display: inline-block;
@@ -86,7 +97,7 @@
     height:20px;
     text-align: center;
     line-height: 20px;
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     display: inline-block;
     margin: 10px;
 }
@@ -99,7 +110,7 @@
     height:20px;
     text-align: center;
     line-height: 20px;
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     display: inline-block;
     margin: 10px;
 }
