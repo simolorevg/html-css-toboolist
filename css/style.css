@@ -39,6 +39,8 @@ body{
 /*BUTTON*/
 .buttons{
     background-color: white;
+    border: 1px solid black;
+    padding: 10px 10px;
 }
 .button{
     display:inline-block;
@@ -65,13 +67,13 @@ body{
 .addsection{
     border: 1px solid #c5cbd0;
     color:#c5cbd0;
-    background-color: white;
 }
 
 /*TO DO LIST*/
 .todolist{
     margin-top: 10px;
     background-color: white;
+    border: 1px solid black;
 }
 .todolist h2{
     display: inline-block;
