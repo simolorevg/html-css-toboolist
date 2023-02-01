@@ -75,6 +75,7 @@ body{
     margin-top: 10px;
     background-color: white;
     border: 1px solid black;
+    padding: 1.2rem 1.5rem;
 }
 .todolist h2{
     display: inline-block;
